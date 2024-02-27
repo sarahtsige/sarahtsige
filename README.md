@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img width="1529" alt="image" src="https://github.com/sarahtsige/sarahtsige/assets/59429924/254624f5-5f25-48b7-9b98-e17c3a72d0f9">
+
+
 <!--
 **sarahtsige/sarahtsige** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
